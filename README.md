@@ -1,2 +1,2 @@
 # Kriging_PTF
-Clean Version
+Clean version of Kriging algorithm
